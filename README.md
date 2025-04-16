@@ -10,20 +10,20 @@ We developed a predictive model using historical match data, weather conditions,
 
 - Python (Pandas, Scikit-learn)
 - Jupyter Notebooks
-- Matplotlib / Seaborn (for analysis and visualization)
+- Matplotlib / Seaborn 
 
 ## 📈 Key Features
 
 - Feature engineering from opponent ranking, kickoff time, weather, and more
-- Regression model to estimate shop traffic and demand
+- Regression model to estimate ticket shop traffic representing demand 
 - Elasticity analysis based on predicted demand response to price variations
 
 ## 📂 Structure
 
 - `notebooks/`: Jupyter notebooks for EDA, modeling, and evaluation
-- `data/`: Cleaned datasets used in the hackathon (if shareable)
-- `models/`: Saved model artifacts (optional)
-- `README.md`: Project overview and usage instructions
+- `data/`: Datasets that can be shared/ are publicly availabe, representing correlating features 
+- `presentation/`: Hackathon Presentation
+- `README.md`: Project overview
 
 ## 📍 Status
 
